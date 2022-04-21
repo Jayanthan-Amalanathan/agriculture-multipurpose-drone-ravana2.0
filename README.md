@@ -1,6 +1,11 @@
 # agriculture-multipurpose-drone-ravana2.0
 #Engineering Design SCT 365-1
 
+#Colabrators
+Jayanthan Amalanathan
+Janushan Rathikumar
+
+
 #Introduction
 
 A drone is a remotely piloted aircraft. Unmanned aerial vehicles (UAVs) or unmanned aircraft 
